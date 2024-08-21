@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dirección General de Tecnologías de Información e Innovación</title>
+    <!-- Bootstrap CSS (opcional para estilos responsivos) -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Font Awesome (opcional para íconos) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="col-md-4">
+            <img class="img-responsive" src="https://digital.irapuato.gob.mx/assets/image-resources/dependencias/escudo_2021.jpg" alt="Escudo Irapuato" style="max-width: 100%; height: auto;"><br>
+            <h3>Dirección General de Tecnologías de Información e Innovación</h3>
+            <p><i class="fas fa-map-marker-alt"></i> Hidalgo 77, Zona Centro, 36500, Irapuato, Gto.</p>
+            <p><i class="fas fa-phone"></i> 462 606 9999</p>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS (opcional para funcionalidad adicional) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+</html>
